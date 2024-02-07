@@ -1422,3 +1422,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2024.02.07-17.48.05:565][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.037099 secs
 [2024.02.07-17.48.05:637][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.02.07-17.49.56:254][811]LogDerivedDataCache: C:/Users/silve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 569 files in 956 folders with total size 12 MiB.
+[2024.02.07-17.57.59:739][607]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.02.07-17.58.02:877][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-17.58.12:599][230]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.07-17.58.12:614][230]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.07-17.58.12:620][230]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.07-17.58.12:636][231]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.07-17.58.23:930][900]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.02.07-17.58.23:943][900]LogContentBrowser: End creating deferred item NewBlueprint
