@@ -14513,3 +14513,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.19-20.44.11:018][943]LogHttp: Warning: 000009EFC1B9DC00: libcurl info message cache 34 (Closing connection)
 [2024.03.19-20.44.11:018][943]LogHttp: Warning: 000009EFC1B9DC00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.19-20.44.11:018][943]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8C0F1893-4EF3-28E4-A080-04BC45756345%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91b94aa840b1d23fbee6b8ba2175ac82%7C9b4f2a145c5a437b869c27bced0b8ec6%7Ceff0ea88-d168-493b-b40f-97f6e598945f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-20.45.14:436][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.45.14:497][392]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.19-20.45.14:498][392]LogSavePackage: Moving '../../../../../../Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Saved/BP_ThirdPersonCharacterD5574E804DEB2F23E4FA46AEBD1166D5.tmp' to '../../../../../../Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.19-20.45.14:509][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 11.5 sec)
+[2024.03.19-20.45.14:511][392]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.19-20.45.14:511][392]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.19-20.45.46:695][688]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.19-20.45.46:778][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.19-20.49.40:264][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-20.49.40:380][835]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.19-20.49.40:381][835]LogSavePackage: Moving '../../../../../../Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Saved/BP_ThirdPersonCharacter089D6E4445814A684E244BB819C368BC.tmp' to '../../../../../../Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.19-20.49.40:390][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 11.7 sec)
+[2024.03.19-20.49.40:392][835]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.19-20.49.40:392][835]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
