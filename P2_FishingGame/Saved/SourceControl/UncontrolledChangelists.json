@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/UI/Options_UI_Screen.uasset",
+				"C:/Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/UI/Widget_UI_Screen.uasset",
+				"C:/Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/ThirdPerson/Input/Actions/IA_MoveWidget.uasset",
+				"C:/Users/aleix/Desktop/Uni/4to/Motores/P2__FishingGame/P2_FishingGame/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/silve/Documents/Uni/4_CUARTO/2n Trim/Motors de Joc/P2_FishingGame/P2_FishingGame/P2_FishingGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/silve/Documents/Uni/4_CUARTO/2n Trim/Motors de Joc/P2_FishingGame/P2_FishingGame/P2_FishingGame/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
 				"C:/Users/silve/Documents/Uni/4_CUARTO/2n Trim/Motors de Joc/P2_FishingGame/P2_FishingGame/P2_FishingGame/Content/CarlesLevel.umap",
